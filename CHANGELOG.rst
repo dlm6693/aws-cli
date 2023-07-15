@@ -2,6 +2,12 @@
 CHANGELOG
 =========
 
+1.29.4
+======
+
+* api-change:``test``: New service yall, come and get it!
+
+
 1.29.3
 ======
 
